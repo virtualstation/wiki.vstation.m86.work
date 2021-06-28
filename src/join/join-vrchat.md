@@ -2,30 +2,81 @@
 
 [[toc]]
 
+## VRChatとは？
 
-## ２、VRChatのアカウントを取得する
-### steamが開いたら、VRChatの「プレイ」と書かれているところをクリックする
+VRChat Inc.が開発・提供するVRSNSです。
+
+公式サイトは[こちら](https://hello.vrchat.com/)
+
+## 前提条件
+
+ゲームストアのSteamをインストールしておく必要があります。       
+Steamをインストールする方法は[こちら](./install-steam)をご覧ください！
+
+## VRChatのアカウントを取得する
+
+Steamを開き、検索窓をクリックします。
+
+![](https://i.gyazo.com/1740aa7fc443adf82e2780d28c0c5117.png)
+
+検索窓に`VRChat`と入力します。
+
+![](https://i.gyazo.com/829af867069aad275e2730273e50c241.png)
+
+VRChatのページが開いたら「今すぐプレイ」をクリックします。      
+クリック後、VRChatのインストールというウィンドウが開くので、次へをクリックしてインストールします。
+
+:::tip
+この画面はすでにインストール済みの画面なので、実際の画面とは異なる場合があります。      
+また、「今すぐプレイ」は「ゲームをプレイ」などの別の文言の可能性があります。その場合も同様にクリックしてください。
+:::
+
+![](https://i.gyazo.com/b04262292ff6725e2f62d832801dee0a.png)
+
+steamが開いたら、VRChatの「プレイ」と書かれているところをクリックする
+
 [![Image from Gyazo](https://i.gyazo.com/6521af8ce46ff759f587ada0b2a73759.png)](https://gyazo.com/6521af8ce46ff759f587ada0b2a73759)
+
 ### 中央にある選択肢のうち、下の方（Non VR Mode）を選択する
+
 [![Image from Gyazo](https://i.gyazo.com/dc16d6011034ed2cb4674b688f8183a3.png)](https://gyazo.com/dc16d6011034ed2cb4674b688f8183a3)
+
 ### 利用規約を読む
+
 [![Image from Gyazo](https://i.gyazo.com/3814099d0eb4087fb4fde03d0dd3d560.png)](https://gyazo.com/3814099d0eb4087fb4fde03d0dd3d560)
+
 ### 同意するをクリックする
+
 [![Image from Gyazo](https://i.gyazo.com/04719719779379747e833401cc52576c.png)](https://gyazo.com/04719719779379747e833401cc52576c)
+
 ### 「CREATE　ACCOUNT」をクリックする
+
 [![Image from Gyazo](https://i.gyazo.com/9ef271731a9d6d645b267b3cb9cdf913.png)](https://gyazo.com/9ef271731a9d6d645b267b3cb9cdf913)
+
 ### ウェブページに移るので、しばらく待つ。
+
 [![Image from Gyazo](https://i.gyazo.com/032c5bd9f76b48890b961c9435e75874.png)](https://gyazo.com/032c5bd9f76b48890b961c9435e75874)
+
 ### 名前とメールアドレス、パスワード、生年月日を入力する
+
 [![Image from Gyazo](https://i.gyazo.com/5529d50a315f2a33cfccff3411ed385f.png)](https://gyazo.com/5529d50a315f2a33cfccff3411ed385f)
+
 ### チェックを入れる
+
 [![Image from Gyazo](https://i.gyazo.com/a925f1ab9f825aa1b493dfd36404a2fd.png)](https://gyazo.com/a925f1ab9f825aa1b493dfd36404a2fd)
+
 ### ロボットではないという認証を取る
+
 [![Image from Gyazo](https://i.gyazo.com/3adf598789b055de49381fbc018684c6.png)](https://gyazo.com/3adf598789b055de49381fbc018684c6)
+
 ### 「CREATE　ACCOUNT」をクリックする
+
 [![Image from Gyazo](https://i.gyazo.com/f018d763563b3d29cf1db2cd4948bc35.png)](https://gyazo.com/f018d763563b3d29cf1db2cd4948bc35)
+
 ### アカウント登録時に書いたメールアドレス先に、認証の手続きのメールが来るので、リンク先をクリックする。
+
 [![Image from Gyazo](https://i.gyazo.com/10670d8ee8337faf91f4bb2c106577ad.png)](https://gyazo.com/10670d8ee8337faf91f4bb2c106577ad)
+
 ### アカウントが登録される
 [![Image from Gyazo](https://i.gyazo.com/f829184bae3349d9885e79de1437d4f9.png)](https://gyazo.com/f829184bae3349d9885e79de1437d4f9)
 ## ３、VRChatにログインする
