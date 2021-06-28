@@ -42,8 +42,8 @@ module.exports = {
                 link: "/join/",
             },
             {
-                text: "Config",
-                link: "/config/",
+                text: "創る",
+                items: [{ text: "VRChat", link: "/create/" }],
             },
             {
                 text: "VuePress",
@@ -55,14 +55,14 @@ module.exports = {
                 {
                     title: "参加する",
                     collapsable: false,
-                    children: ["", "install-steam", "join-vrchat"],
+                    children: ["", "install-steam", "join-vrchat", ['https://is.gd/ktbQMV', "NeosVRに参加する"]],
                 },
             ],
-            "/guide/": [
+            "/create/": [
                 {
-                    title: "Guide",
+                    title: "創る",
                     collapsable: false,
-                    children: ["", "using-vue"],
+                    children: [""],
                 },
             ],
         },
