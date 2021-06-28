@@ -30,7 +30,7 @@ VRChatやNeosVRも、このSteamを通してインストールをします。
 
 画面右上にある「ログイン」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/82d0311c20a76049c5bd8347e4b2d026.png)](https://gyazo.com/82d0311c20a76049c5bd8347e4b2d026)
+![Image from Gyazo](https://i.gyazo.com/82d0311c20a76049c5bd8347e4b2d026.png)
 
 すると、この画面が出てきますので、右下の「steamに登録」をクリックします。
 
@@ -46,35 +46,35 @@ Steamは頻繁にメール認証を求めてくるので、すぐにメールを
 
 ロボットではないということを確かめるための質問に答えます。
 
-[![Image from Gyazo](https://i.gyazo.com/2d91ccb0a1e918ccd76cc6a0cab6730b.png)](https://gyazo.com/2d91ccb0a1e918ccd76cc6a0cab6730b)
+![Image from Gyazo](https://i.gyazo.com/2d91ccb0a1e918ccd76cc6a0cab6730b.png)
 
 上手くいくと「私はロボットではありません」にチェックが入ります。
 
-[![Image from Gyazo](https://i.gyazo.com/3665652b6833861024b61abf394da72d.png)](https://gyazo.com/3665652b6833861024b61abf394da72d)
+![Image from Gyazo](https://i.gyazo.com/3665652b6833861024b61abf394da72d.png)
 
 「利用規約やプライバシーに同意する」にチェックを入れ、「続行」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/3706494edb63b88098f90a54279b635c.png)](https://gyazo.com/3706494edb63b88098f90a54279b635c)
+![Image from Gyazo](https://i.gyazo.com/3706494edb63b88098f90a54279b635c.png)
 
 するとこの画面に切り替わるので、自身のメールアドレスを開いて本登録を完了させます。
 
-[![Image from Gyazo](https://i.gyazo.com/0180e6de974cb971ee14c8c6c223f8f6.png)](https://gyazo.com/0180e6de974cb971ee14c8c6c223f8f6)
+![Image from Gyazo](https://i.gyazo.com/0180e6de974cb971ee14c8c6c223f8f6.png)
 
 Steamから届いたメールのリンクをクリックするとこのページが表示されます。
 
-[![Image from Gyazo](https://i.gyazo.com/0caea08015bef329799d97ea61e55bb6.png)](https://gyazo.com/0caea08015bef329799d97ea61e55bb6)
+![Image from Gyazo](https://i.gyazo.com/0caea08015bef329799d97ea61e55bb6.png)
 
 「自動でアカウントを作成する」というページに移ります。
 
-[![Image from Gyazo](https://i.gyazo.com/0c90ba5313d92fd3ca9830a43ed1b58f.png)](https://gyazo.com/0c90ba5313d92fd3ca9830a43ed1b58f)
+![Image from Gyazo](https://i.gyazo.com/0c90ba5313d92fd3ca9830a43ed1b58f.png)
 
 好きなユーザ名とパスワードを記入します。（同じユーザ名がある場合画面上にエラーが発生します）
 
-[![Image from Gyazo](https://i.gyazo.com/7acd3ada427a3d283cd5e9c669ef9115.png)](https://gyazo.com/7acd3ada427a3d283cd5e9c669ef9115)
+![Image from Gyazo](https://i.gyazo.com/7acd3ada427a3d283cd5e9c669ef9115.png)
 
 steamのページに戻り、黒く塗りつぶしたところに自分のメールアドレスが表示されていたら登録完了です！
 
-[![Image from Gyazo](https://i.gyazo.com/470759e7e60eb27b586da69502f2e7e6.png)](https://gyazo.com/470759e7e60eb27b586da69502f2e7e6)
+![Image from Gyazo](https://i.gyazo.com/470759e7e60eb27b586da69502f2e7e6.png)
 
 ## steamをインストールする
 
@@ -85,23 +85,23 @@ steamのページに戻り、黒く塗りつぶしたところに自分のメー
 STEAMをインストールをクリックします。       
 クリック後、ダウンロードされたインストーラーを起動します。
 
-[![Image from Gyazo](https://i.gyazo.com/6e415d8ed3b58708aecb35f3555c3ac8.png)](https://gyazo.com/6e415d8ed3b58708aecb35f3555c3ac8)
+![](https://i.gyazo.com/6e415d8ed3b58708aecb35f3555c3ac8.png)
 
 使用する言語が「日本語」になっているかを確認し、「次へ」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/0a1447c484d3aa589252a4db8e1279ac.png)](https://gyazo.com/0a1447c484d3aa589252a4db8e1279ac)
+![](https://i.gyazo.com/0a1447c484d3aa589252a4db8e1279ac.png)
 
 説明を読んで「次へ」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/4b7e49e6c467e36f3d88f8580a4031a5.png)](https://gyazo.com/4b7e49e6c467e36f3d88f8580a4031a5)
+![](https://i.gyazo.com/4b7e49e6c467e36f3d88f8580a4031a5.png)
 
 保存先を指定して「次へ」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/ec2c81e0debd8ff89d10ca76cfef6eb5.png)](https://gyazo.com/ec2c81e0debd8ff89d10ca76cfef6eb5)
+![](https://i.gyazo.com/ec2c81e0debd8ff89d10ca76cfef6eb5.png)
 
 インストールは自動で行われますので、このような画面になったら「完了」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/be2f3b420cfb566dfca3139383d4d07a.png)](https://gyazo.com/be2f3b420cfb566dfca3139383d4d07a)
+![](https://i.gyazo.com/be2f3b420cfb566dfca3139383d4d07a.png)
 
 自動的にSteamが起動するので、先ほど決めたsteamのアカウント名とパスワードを入力します。
 
@@ -109,4 +109,4 @@ STEAMをインストールをクリックします。
 この時メール認証を求められることがありますが、指示にしたがってメールに届いたコードを入力すればOKです！
 :::
 
-[![Image from Gyazo](https://i.gyazo.com/cb6e01b66ac7ddcc1775609a4b2437b5.png)](https://gyazo.com/cb6e01b66ac7ddcc1775609a4b2437b5)
+![](https://i.gyazo.com/cb6e01b66ac7ddcc1775609a4b2437b5.png)

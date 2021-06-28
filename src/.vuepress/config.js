@@ -45,10 +45,6 @@ module.exports = {
                 text: "創る",
                 items: [{ text: "VRChat", link: "/create/" }],
             },
-            {
-                text: "VuePress",
-                link: "https://v1.vuepress.vuejs.org",
-            },
         ],
         sidebar: {
             "/join/": [
