@@ -4,7 +4,10 @@
 
 ## VRChatとは？
 
-VRChat Inc.が開発・提供するVRSNSです。
+VRChat Inc.が開発・提供するVRSNSです。      
+現在はデスクトップ版（PCVR, デスクトップモード）、Oculus Quest版が提供されています。
+
+他のVRSNS同様、仮想空間上で触れ合ったり、ゲームを楽しんだり、お話ししたりすることができます！
 
 公式サイトは[こちら](https://hello.vrchat.com/)
 
@@ -13,7 +16,11 @@ VRChat Inc.が開発・提供するVRSNSです。
 ゲームストアのSteamをインストールしておく必要があります。       
 Steamをインストールする方法は[こちら](./install-steam)をご覧ください！
 
-## VRChatのアカウントを取得する
+:::tip
+VRChatは名前に「VR」と入っていますが、デスクトップモードが実装されているためVRを持っていなくても遊ぶことができます！
+:::
+
+## VRChatをインストール
 
 Steamを開き、検索窓をクリックします。
 
@@ -33,23 +40,34 @@ VRChatのページが開いたら「今すぐプレイ」をクリックしま�
 
 ![](https://i.gyazo.com/b04262292ff6725e2f62d832801dee0a.png)
 
-steamが開いたら、VRChatの「プレイ」と書かれているところをクリックする
+## VRChatを起動する
+
+
+
+インストールが完了したら、上部の「ライブラリ」をクリックします。
+
+![](https://i.gyazo.com/e0785707cefce01a0e7c4de289f34496.png)
+
+一覧からVRChatを選びます。
+
+![](https://i.gyazo.com/5fd8f8586dd722fb4f4a495e85424f6e.png)
+
+「プレイ」をクリックします。
 
 [![Image from Gyazo](https://i.gyazo.com/6521af8ce46ff759f587ada0b2a73759.png)](https://gyazo.com/6521af8ce46ff759f587ada0b2a73759)
 
-### 中央にある選択肢のうち、下の方（Non VR Mode）を選択する
+中央にある選択肢のうち、下の方（Non VR Mode）を選択する
 
 [![Image from Gyazo](https://i.gyazo.com/dc16d6011034ed2cb4674b688f8183a3.png)](https://gyazo.com/dc16d6011034ed2cb4674b688f8183a3)
 
-### 利用規約を読む
+利用規約を読んで同意します。        
+すると、VRChatが起動します。
 
 [![Image from Gyazo](https://i.gyazo.com/3814099d0eb4087fb4fde03d0dd3d560.png)](https://gyazo.com/3814099d0eb4087fb4fde03d0dd3d560)
 
-### 同意するをクリックする
+## VRChatアカウントを作成する
 
-[![Image from Gyazo](https://i.gyazo.com/04719719779379747e833401cc52576c.png)](https://gyazo.com/04719719779379747e833401cc52576c)
-
-### 「CREATE　ACCOUNT」をクリックする
+ 「CREATE　ACCOUNT」をクリックする
 
 [![Image from Gyazo](https://i.gyazo.com/9ef271731a9d6d645b267b3cb9cdf913.png)](https://gyazo.com/9ef271731a9d6d645b267b3cb9cdf913)
 
