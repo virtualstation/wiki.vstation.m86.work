@@ -54,11 +54,11 @@ VRChatのページが開いたら「今すぐプレイ」をクリックしま�
 
 「プレイ」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/6521af8ce46ff759f587ada0b2a73759.png)](https://gyazo.com/6521af8ce46ff759f587ada0b2a73759)
+![Image from Gyazo](https://i.gyazo.com/6521af8ce46ff759f587ada0b2a73759.png)
 
 中央にある選択肢のうち、下の方（Non VR Mode）を選択する
 
-[![Image from Gyazo](https://i.gyazo.com/dc16d6011034ed2cb4674b688f8183a3.png)](https://gyazo.com/dc16d6011034ed2cb4674b688f8183a3)
+![Image from Gyazo](https://i.gyazo.com/dc16d6011034ed2cb4674b688f8183a3.png)
 
 利用規約を読んで同意します。        
 すると、VRChatが起動します。
@@ -141,11 +141,12 @@ VRChatのホームワールドにログインできた！！！
 
 [![Image from Gyazo](https://i.gyazo.com/d797bb68d20d99a2e022816f2c6d152e.png)](https://gyazo.com/d797bb68d20d99a2e022816f2c6d152e)
 
-# ③アバターを変えてチュートリアルワールドにJOINしよう！
+## チュートリアルワールドに参加する
 
-## １、アバターを変えよう
+### アバターを変更する
 
-## 最初はロボットの状態です
+アバターの変更
+
 [![Image from Gyazo](https://i.gyazo.com/d569840f5aea9c3faba3ea5ad4c9cf3c.png)](https://gyazo.com/d569840f5aea9c3faba3ea5ad4c9cf3c)
 ## 鏡の右にある「AVATARS」で好きなアバターをクリックします。
 [![Image from Gyazo](https://i.gyazo.com/8e79fb5ebba9ad0f457351789ba26188.png)](https://gyazo.com/8e79fb5ebba9ad0f457351789ba26188)
