@@ -10,6 +10,14 @@ module.exports = {
      */
     description: description,
 
+    locales: {
+        '/': {
+            lang: 'ja-JP',
+            title: 'Virtual Station Wiki✨',
+            description: description
+        }
+    },
+
     /**
      * Extra tags to be injected to the page HTML `<head>`
      *
