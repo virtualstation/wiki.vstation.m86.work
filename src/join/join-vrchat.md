@@ -143,6 +143,10 @@ VRChatのホームワールドにログインできた！！！
 
 ## チュートリアルワールドに参加する
 
+:::tip
+test
+:::
+
 ### アバターを変更する
 
 アバターの変更
@@ -153,50 +157,49 @@ VRChatのホームワールドにログインできた！！！
 
 [![Image from Gyazo](https://i.gyazo.com/8e79fb5ebba9ad0f457351789ba26188.png)](https://gyazo.com/8e79fb5ebba9ad0f457351789ba26188)
 
-## アバターを変えることが出来ました！
+アバターを変えることが出来ました！
 
 [![Image from Gyazo](https://i.gyazo.com/9bf5a3e59f948287919aaaaab13606dd.png)](https://gyazo.com/9bf5a3e59f948287919aaaaab13606dd)
 
-## ２、[JP] Tutorial WorldにJOINしよう！
+### [JP] Tutorial Worldに参加する
 
-## Escキーを押してメニューを開き、「World」をクリックします。
+Escキーを押してメニューを開き、「World」をクリックします。
 
-[![Image from Gyazo](https://i.gyazo.com/c8c16df7afdf4a1a89e86a22f2bbae9b.png)](https://gyazo.com/c8c16df7afdf4a1a89e86a22f2bbae9b)
+![](https://i.gyazo.com/e85d8a8c0e90410c0e00240f2fa0ddce.png)
 
-## 右上の「Search」をクリックして、「JP」と入力して「OK」をクリックします。
+右上の「Search」をクリックして、「JP」と入力して「OK」をクリックします。
 
 [![Image from Gyazo](https://i.gyazo.com/18113d2e869c6b43ac0d75a4bb75a1fd.png)](https://gyazo.com/18113d2e869c6b43ac0d75a4bb75a1fd)
 
-## 検索結果から、四角い顔のWorldをクリックします。
+検索結果から、四角い顔のWorldをクリックします。
 
 [![Image from Gyazo](https://i.gyazo.com/eec79e76378ff392896943344395e8f2.png)](https://gyazo.com/eec79e76378ff392896943344395e8f2)
 
-## 「GO」をクリックします。
+「GO」をクリックします。
 
 [![Image from Gyazo](https://i.gyazo.com/7d04e1d6ee7f4e55985aba141408c316.png)](https://gyazo.com/7d04e1d6ee7f4e55985aba141408c316)
 
-## このような画面が出てくるので、読み込むまでしばらく待ちます。
+このような画面が出てくるので、読み込むまでしばらく待ちます。
 
 [![Image from Gyazo](https://i.gyazo.com/e4aa9bb2eb686a83457d0d5d7562c90b.png)](https://gyazo.com/e4aa9bb2eb686a83457d0d5d7562c90b)
 
-## [JP] Tutorial WorldにJOIN出来ました！！！
+[JP] Tutorial WorldにJOIN出来ました！！！
 
 [![Image from Gyazo](https://i.gyazo.com/34cbec88eb529d8d5ce981ca332244f3.png)](https://gyazo.com/34cbec88eb529d8d5ce981ca332244f3)
 
-## 日本人の初心者向けの看板がありますので確認してください。
+日本人の初心者向けの看板がありますので確認してください。
 
 [![Image from Gyazo](https://i.gyazo.com/e5f4ce4c994486945a78e8c6df4b23c1.png)](https://gyazo.com/e5f4ce4c994486945a78e8c6df4b23c1)
 
-## ここの若葉アイコンで待っていると誰かが案内してくれるかもしれません。
+ここの若葉アイコンで待っていると誰かが案内してくれるかもしれません。
 
 [![Image from Gyazo](https://i.gyazo.com/df478ebae7011a3cd00a16cd6c063c68.png)](https://gyazo.com/df478ebae7011a3cd00a16cd6c063c68)
 
-## 自分でWorldの中を見たい人はこちらから入ってください。
+自分でWorldの中を見たい人はこちらから入ってください。
 
 [![Image from Gyazo](https://i.gyazo.com/982631be4efd899fd2ed339ac75b0967.png)](https://gyazo.com/982631be4efd899fd2ed339ac75b0967)
 
-## 入場したときの画面です。以上で「VRChatの始め方」を終わります。
-
-## 最後までお読みいただきありがとうございました。
+入場したときの画面です。以上で「VRChatの始め方」を終わります。      
+最後までお読みいただきありがとうございました。
 
 [![Image from Gyazo](https://i.gyazo.com/0e0892a6c678794ab4d5af8c7f509ad1.png)](https://gyazo.com/0e0892a6c678794ab4d5af8c7f509ad1)
