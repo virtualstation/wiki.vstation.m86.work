@@ -30,7 +30,7 @@ VRChatやNeosVRも、このSteamを通してインストールをします。
 
 画面右上にある「ログイン」をクリックします。
 
-![Image from Gyazo](https://i.gyazo.com/82d0311c20a76049c5bd8347e4b2d026.png)
+![](https://i.gyazo.com/82d0311c20a76049c5bd8347e4b2d026.png)
 
 すると、この画面が出てきますので、右下の「steamに登録」をクリックします。
 
