@@ -46,8 +46,8 @@ module.exports = {
         lastUpdated: "最終更新",
         nav: [
             {
-                text: "参加する",
-                link: "/join/",
+                text: "始める",
+                link: "/start/",
             },
             {
                 text: "創る",
@@ -55,9 +55,9 @@ module.exports = {
             },
         ],
         sidebar: {
-            "/join/": [
+            "/start/": [
                 {
-                    title: "参加する",
+                    title: "始める",
                     collapsable: false,
                     children: ["", "install-steam", "join-vrchat", ['https://is.gd/ktbQMV', "NeosVRに参加する"]],
                 },
