@@ -76,7 +76,7 @@ steamのページに戻り、黒く塗りつぶしたところに自分のメー
 
 ![Image from Gyazo](https://i.gyazo.com/470759e7e60eb27b586da69502f2e7e6.png)
 
-## steamをインストールする
+## Steamをインストールする
 
 ページ上部にある「Steamをインストール」をクリックします。
 

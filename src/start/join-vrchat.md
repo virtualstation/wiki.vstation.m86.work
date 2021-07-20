@@ -81,7 +81,7 @@ Steanでログインすると簡単にVRChatを始めることができますが
 
 名前とメールアドレス、パスワード、生年月日を入力します。
 
-![Image from Gyazo](https://i.gyazo.com/5529d50a315f2a33cfccff3411ed385f.png)
+![](https://i.gyazo.com/0a13486cb5b448be128a44d75c9cd992.png)
 
 「CREATE ACCOUNT」をクリックします。
 
@@ -97,38 +97,22 @@ Steanでログインすると簡単にVRChatを始めることができますが
 
 ### VRChatにログインする
 
-VRChatの画面に表示されている`Login`をクリックします。
+VRChatに表示されている、`Login`をクリックします。
 
-![Image from Gyazo](https://i.gyazo.com/fc5c1d6c1850dff3a8f9cbe56e8244ed.png)
+![](https://i.gyazo.com/8a0f12b336d1911e08da4aa0e95d272f.png)
 
-今回はsteamで登録したので、steamをクリックする。
+VRChatアカウントを作成したので、`VRChat`をクリックします。
 
-![Image from Gyazo](https://i.gyazo.com/67855c4a1cc6130820f6cc39e0d2465f.png)
+![](https://i.gyazo.com/3ecb6f0cb5d7eacbff93cf818eec5cc6.png)
 
-本人確認のため誕生日を入力するよう言われるので「Continue」をクリックする。
+メールアドレス（もしくはユーザー名）、パスワードを入力してログインします。
 
-![Image from Gyazo](https://i.gyazo.com/d6e34b1835721b0bcca1ce590f542dc6.png)
+![](https://i.gyazo.com/a84dc044c971a626eacea643e514eaf4.png)
 
-アカウント作成時に入力した誕生日を入れ、「OK」をクリックする。
+初めてログインすると、チュートリアルに飛ばされます。
 
-![Image from Gyazo](https://i.gyazo.com/4c51b01642244a0e2bfe86e755c84e33.png)
+![](https://i.gyazo.com/f49b17923e9156d5de52ba75433f4aec.png)
 
-誕生日が正しければ右の方をクリックする
+`Ready to Go!`をクリックして、VRChatを始めましょう！
 
-![Image from Gyazo](https://i.gyazo.com/46e3dc8cf67ca640383e1575b59f8551.png)
-
-利用規約についての案内が出るので「Continue」をクリックする
-
-![Image from Gyazo](https://i.gyazo.com/252a458c2aec57f3bfa3a304641d16a1.png)
-
-利用規約の頭の部分
-
-![Image from Gyazo](https://i.gyazo.com/dacad5052106f02433c3483a7f8f976f.png)
-
-確認したら、「Agree」をクリックする。
-
-![Image from Gyazo](https://i.gyazo.com/6999947a180729eeda5eb17ee480a32a.png)
-
-VRChatのホームワールドにログインできた！！！
-
-![Image from Gyazo](https://i.gyazo.com/d797bb68d20d99a2e022816f2c6d152e.png)
+![](https://i.gyazo.com/e097fe247cc09d8c7673995bb4e55483.png)
